@@ -1,0 +1,30 @@
+[33mcommit 5998abb9129e5fba22092e1a0e2eea9bce9d4b12[m
+Author: Andriy Targoniy <9225@ukr.net>
+Date:   Sat May 28 19:06:46 2016 +0300
+
+    Add second task solution.
+
+[33mcommit 373c351acb1100f978922a870af65eb4f8a08b1e[m
+Author: Andriy Targoniy <9225@ukr.net>
+Date:   Wed May 25 18:41:45 2016 +0300
+
+    little clean
+
+[33mcommit 5ca311e89d185171bd800483a570ecd0cfa12630[m
+Merge: 348fd32 eaf3275
+Author: Andriy Targoniy <9225@ukr.net>
+Date:   Wed May 25 18:32:10 2016 +0300
+
+    Merge https://github.com/Targoniy/BSA16
+
+[33mcommit 348fd32222334ce237cd23656e9243fe8262c8bf[m
+Author: Andriy Targoniy <9225@ukr.net>
+Date:   Wed May 25 18:21:11 2016 +0300
+
+    Add main project
+
+[33mcommit eaf3275bf695356cdb88c109e531e46343835616[m
+Author: Andriy Targoniy <9225@ukr.net>
+Date:   Wed May 25 18:10:45 2016 +0300
+
+    Initial commit

@@ -1,0 +1,6 @@
+{
+  "autoload": {
+    "psr-4": {"": "data/" }
+  },
+  "require": {"php":">7.0"}
+}

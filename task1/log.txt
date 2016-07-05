@@ -1,0 +1,10 @@
+Tuesday 5th of July 2016 09:23:09 AM % adding % 3 with 4 % , equal 7
+Tuesday 5th of July 2016 09:23:09 AM % substraction % 3 with 4 % , equal -1
+Tuesday 5th of July 2016 09:23:09 AM % multiplication % 3 with 4 % , equal 12
+Tuesday 5th of July 2016 09:23:09 AM % dividing % 3 with 4 % , equal 0
+Tuesday 5th of July 2016 09:23:09 AM % powerOfTwo % 3 % , equal 8
+Tuesday 5th of July 2016 09:23:11 AM % adding % 4 with 3 % , equal 7
+Tuesday 5th of July 2016 09:23:11 AM % substraction % 4 with 3 % , equal 1
+Tuesday 5th of July 2016 09:23:11 AM % multiplication % 4 with 3 % , equal 12
+Tuesday 5th of July 2016 09:23:11 AM % dividing % 4 with 3 % , equal 1
+Tuesday 5th of July 2016 09:23:11 AM % powerOfTwo % 4 % , equal 16
