@@ -1,0 +1,25 @@
+Task 1.1 
+git log develop..develop-feature1 --pretty=format:"%ad [%an] %s" --after=3.hours --date-order
+
+Task 1.2
+git log --grep="^213" --pretty=format:"%ad [%an] %s" --date-order
+
+
+Task 2
+git reset --hard 'hashNumber'
+git checkout develop
+git merge develop-feature1
+
+-де 'hashNumber' - хеш коміту, який іде перед 3-ма нестабільними комітами колеги
+  
+  
+Task 3
+git rebase -i develop-feature3
+
+-покаже список всіх комітів в гілці develop-feature3. Навпроти необхідних для коригування комітів замість слова 'pick' ставимо 'r' і в послідовно відкриваючихся після цього вікнах змінюємо коментар.
+
+git push --force origin develop-feature3
+
+-далі пушимо на сервер
+
+  
